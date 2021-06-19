@@ -4,7 +4,7 @@ InviteChecker counts invites based on 3 types.
 
 | Sign               | Type     | Description                            |
 | -------------      | -------- | --------                               |
-| :white_check_mark: | Normal   | Normal invites from joins.             |
+| ✅                 | Normal   | Normal invites from joins.             |
 | :star:             | Bonus    | Extra invited added by server admins.  |
 | :no_entry_sign:    | Leaves   | Negative invites from leaving members. |
 
