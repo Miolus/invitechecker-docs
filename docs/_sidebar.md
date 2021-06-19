@@ -4,9 +4,9 @@
  
  - Counts
  
-  - [View](view-counts.md)
-  - [Types](count-types.md)
-  - [Leaderboard](leaderboard.md)
+   - [View](view-counts.md)
+   - [Types](count-types.md)
+   - [Leaderboard](leaderboard.md)
 
 - Customization
 
