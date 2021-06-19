@@ -1,6 +1,6 @@
 # Customize Messsages
 
-
+| ------------  |-----------------------------------------------------|
 | Usage         | Customize the message sent on joins with variables. |
 | Syntax        | `message join/leave <custom>`                       |
 | Example       | `message join MEMBER_MENTION joined my cool server` |
