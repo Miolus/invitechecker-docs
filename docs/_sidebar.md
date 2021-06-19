@@ -1,27 +1,28 @@
 ### Get started
 
-[Set welcomer](startup/welcomer.md)
+  [Setup](/)
+  [Invite friends](/)
 
 ### Messages
 
-[Customize](config/message.md)
+  [Customize](config/message)
 
-[Channels](config/channels.md)
+  [Channels](config/channels.md)
 
 ### Counts
 
-Show counts
+  Show counts
 
-Add invites
+  Add invites
 
-Sync counts
+  Sync counts
 
 ### Analytics
 
-Show graphs
+  Show graphs
 
 ### Utility
 
-Troubleshooting
+  Troubleshooting
 
-Support
+  Support
