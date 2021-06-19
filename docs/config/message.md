@@ -1,4 +1,4 @@
-# Channels Command
+# Customize Messsages
 
 
 | Usage         | Customize the message sent on joins with variables. |
@@ -6,7 +6,9 @@
 | Example       | `message join MEMBER_MENTION joined my cool server` |
 | Permissions   | `manage_guild` or manager role                      | 
 
-# Variables
+The message may be an error message if the bot can't figure out the inviter.
+
+## Variables
 
 
 | Variable           | Description                                | Example  |
