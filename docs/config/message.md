@@ -14,6 +14,8 @@ The message may be an error message if the bot can't figure out the inviter.
 
 ## Variables
 
+Place this variables in your text when customizing a message to make the bot replace them with usefull information.
+
 
 | Variable           | Description                                | Example  |
 | -------------      | -------------------------                  | -------- |
