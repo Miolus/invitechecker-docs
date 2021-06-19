@@ -25,6 +25,21 @@
 	tabs: {
 		sync: false
 	}
+	plugins: [
+		function(hook) {
+		var footer = [
+		'<hr/>',
+		'<footer>',
+		'<span><a href="https://discord.gg/yRqrjY3"</a>Support</span>',
+		'<span>© 2021 Miolus</a>.</span>',
+		'</footer>'
+		].join('');
+
+	      hook.afterEach(function(html) {
+		return html + footer;
+	      });
+    }
+  ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
