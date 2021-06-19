@@ -2,15 +2,25 @@
 
 Set a welcomer
 
-### Change Counts
+### Messages
+ 
+Types
+
+Variables
+
+### Counts
+
+Show counts
 
 Add invites
 
+Sync counts
+
 ### Analytics
 
-Graphs
+Show graphs
 
-## Utility
+### Utility
 
 Troubleshooting
 
