@@ -11,11 +11,10 @@
 - Customization
 
   - [Messages](messages.md)
-  - [Channels](channels.mdd)
+  - [Channels](channels.md)
+  - [Giveaways](giveaways.md)
  
- 
-- Giveaways
-  - [Start](start_giveaways.md)
-  - [Manage](manage_giveaways.md)
 
+- [Aliases](aliases.md)
+- [Troubleshooting](troubleshooting.md)
 - [Support](https://discord.gg/yRqrjY3)
