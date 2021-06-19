@@ -1,6 +1,6 @@
 - Getting started
 
-  - [Quick start](README.md)
+  - [Quick start](/)
  
  - Counts
  
