@@ -19,6 +19,7 @@ Winners will be automatically selected when the giveaway reached the ending time
 `<time>` : A time (e. g. `1h 1d 1m`) text argument of a duration. Must not be bigger than 14 days.
 
 
+
 | Attribute | Value                                               |            
 | ----------| -------------------------                           | 
 | Winners   | Number < 50                                         |  
