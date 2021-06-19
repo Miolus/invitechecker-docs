@@ -1,10 +1,14 @@
 # Customize Messsages
 
-| ------------  |-----------------------------------------------------|
-| Usage         | Customize the message sent on joins with variables. |
-| Syntax        | `message join/leave <custom>`                       |
-| Example       | `message join MEMBER_MENTION joined my cool server` |
-| Permissions   | `manage_guild` or manager role                      | 
+You can use the `message` command to customize messages sent on join and leave events.
+Syntax: `message join/leave my new message`
+Use variables for a responsive message.
+
+| Example                                                            | Example Result                             | 
+| -------------                                                      | -------------------------                  | 
+| `message join MEMBER_NAME joined, invited by INVITER_NAME`         | Miolus joined, invited by Joulxdr          |
+| `message leave MEMBER_NAME left, he was invited by INVITER_MENTION`| Miolus left, he was invited by @Dominik    |
+
 
 The message may be an error message if the bot can't figure out the inviter.
 
