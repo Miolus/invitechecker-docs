@@ -3,10 +3,9 @@
 [Set welcomer](startup/welcomer.md)
 
 ### Messages
- 
-Types
 
-Variables
+[Customize](config/message.md)
+[Channels](config/channels.md)
 
 ### Counts
 
