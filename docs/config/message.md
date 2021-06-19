@@ -4,7 +4,7 @@ You can use the `message` command to customize messages sent on join and leave e
 Syntax: `message join/leave my new message`
 Use variables for a responsive message.
 
-| Example Message                                                    | Example Result                             | 
+| Example Command                                                  | Example Result                             | 
 | -------------                                                      | -------------------------                  | 
 | `message join MEMBER_NAME joined, invited by INVITER_NAME`         | Miolus joined, invited by Joulxdr          |
 | `message leave MEMBER_NAME left, he was invited by INVITER_MENTION`| Miolus left, he was invited by @Dominik    |
