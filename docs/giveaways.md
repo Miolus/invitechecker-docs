@@ -1,6 +1,8 @@
 # Giveaways
 
-You can manage giveaways with the `giveaway` (alias `g`) command. The bot will then ask you a few questions about your giveaway, then he'll send a message in channel of your choice. Members then can click a 🥳 emoji to take part in the giveaway.
+You can manage giveaways with the `giveaway` (alias `g`) command. The bot will then ask you a few questions about your giveaway, then he'll send a message in channel of your choice. Members then can click a 🥳 emoji to take part in the giveaway. 
+
+Winners will be automatically selected when the giveaway reached the ending time.
 
 | Command          | Description                             |  
 | -------------    | -------------------------               | 
