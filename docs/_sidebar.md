@@ -5,6 +5,7 @@
 ### Messages
 
 [Customize](config/message.md)
+
 [Channels](config/channels.md)
 
 ### Counts
