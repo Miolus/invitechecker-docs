@@ -1,42 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
-	</head>
-
-	<body>
-		<nav>
-			<a href="/" style="display: flex; align-items: center;">
-				<img src="assets/globe.png" width="20" height="20" style="margin-right: 4px;" />
-				Language
-			</a>
-		</nav>
-		<div id="app"></div>
-		<script>
-			window.$docsify = {
-				themeColor: '#5656fc',
-				coverpage: false,
-				loadSidebar: true,
-				relativePath: true,
-				maxLevel: 2,
-				name: 'InviteChecker',
-				tabs: {
-					sync: false
-				}
-			};
-		</script>
-		<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-		<script src="//unpkg.com/docsify-copy-code@2"></script>
-		<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-		<script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
-		<meta charset="UTF-8" />
-		<title>InviteChecker Docs</title>
-		<meta name="description" content="The official documentation for the InviteChecker discord bot!\nEasily count invites and view in-depth analytics." />
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+	<meta name="description" content="The official documentation for the InviteChecker discord bot!\nEasily count invites and view in-depth analytics." />
 		<meta content="#5656fc" data-react-helmet="true" name="theme-color">
 		<meta
 			name="viewport"
 			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
 		/>
-	</body>
-</html>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      	themeColor: '#5656fc',
+	coverpage: false,
+	loadSidebar: true,
+	relativePath: true,
+	maxLevel: 2,
+	name: 'InviteChecker',
+	tabs: {
+		sync: false
+	}
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
