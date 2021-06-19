@@ -1,16 +1,26 @@
 # Giveaways
 
-You can manage giveaways with the `giveaway` (alias `g`) command.
+You can manage giveaways with the `giveaway` (alias `g`) command. The bot will then ask you a few questions about your giveaway, then he'll send a message in channel of your choice. Members then can click a 🥳 emoji to take part in the giveaway.
 
-| Command          | Description                             | 
+| Command          | Description                             |  
 | -------------    | -------------------------               | 
-| `g start <time>` | Create a giveaways                      | 
+| `g start <time>` | Create a giveaways                      |  
 | `g list`         | List all your giveaways.                |
-| `g reroll <id>`  | Reroll a giveaways after it ended.      |
-| `g delete <id>`  | Delete the giveaway with the given id.  |
+| `g reroll <id>`  | Reroll a giveaways after it ended.      | 
+| `g delete <id>`  | Delete the giveaway with the given id.  |    
 | `g wipe`         | Delete all giveaways that have ended.   |
 | `g end <id>`     | End a giveaway by id.                   | 
 
-`id` : The ID of the giveaway you want to manage. You can get the id with `g list`.
 
-`time` : A `1h2d1m` representation of a duration. Must not be bigger than 14 days.
+`<id>` : The ID of the giveaway you want to manage. You can get the id with `g list`.
+
+`<time>` : A time (e. g. `1h 1d 1m`) text argument of a duration. Must not be bigger than 14 days.
+
+
+| Attribute | Value                                               |            
+| ----------| -------------------------                           | 
+| Winners   | Number < 50                                         |  
+| Title     | Text                                                |
+| ID        | Number                                              | 
+| End       | Minute-precise timestamp                            |    
+| Channel   | A discord channel, can't be changed after creation. |
