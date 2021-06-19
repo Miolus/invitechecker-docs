@@ -1,6 +1,6 @@
 ### Get started
 
-Set a welcomer
+[Set welcomer](startup/welcomer.md)
 
 ### Messages
  
