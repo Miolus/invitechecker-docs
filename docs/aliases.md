@@ -1,6 +1,7 @@
 # Aliases
 
 Aliases are a system to deliver results by typing just a few characters.
+
 | Original      | Shortcut | Description               |
 | -----         |------      |-----                      |
 | `leaderboard` | `lb`  | Show the leaderboard.      |
