@@ -1,4 +1,4 @@
-# Thanks for adding InviteChecker!
+# 🎉 Thanks for adding InviteChecker!
 
 InviteChecker is now counting invites on your server, invite your friends and get some points!
 
