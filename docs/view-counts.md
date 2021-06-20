@@ -8,6 +8,8 @@ Do view the count of others add a mention:
 
 You can also checkout the leaderboard commands to show the users that have invited the most people.
 
+![Example](https://content.miolus.de/invite-command-example.png)
+
 ---
 **NOTE**
 
