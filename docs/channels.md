@@ -2,11 +2,13 @@
 
 Use the `channel` command to set channels for `join` and `leave` events. These are events that send messages when a members joins or leaves your server.
 
-----
+---
 **Syntax**
 
-`channel join/leave #my-new-channel`
-------
+`channel join/leave #channel`
+
+---
+
 
 | Example Command | Action taken                                                  |
 |-------------    |---------                                                      |
