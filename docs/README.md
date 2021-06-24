@@ -1,4 +1,4 @@
-# Upgrade your discord server!
+# 😀 Create the best community!
 
 **InviteChecker let's you:**
 
