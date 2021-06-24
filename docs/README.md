@@ -2,7 +2,7 @@
 
 With InviteChecker a new world of amazing features gets added to your discord server!
 
-<button name="invitechecker-add" onclick="https://discord.com/oauth2/authorize?client_id=741606943952601179&redirect_uri=https%3A%2F%2Fmiolus.github.io%2Finvitechecker%2Fredirect-thankyou-after-install&response_type=code&scope=bot&permissions=32">Add features!</button>
+<button name="invitechecker-add" onclick='https://discord.com/oauth2/authorize?client_id=741606943952601179&redirect_uri=https%3A%2F%2Fmiolus.github.io%2Finvitechecker%2Fredirect-thankyou-after-install&response_type=code&scope=bot&permissions=32'>Add features!</button>
 
 ### Count invites!
 
