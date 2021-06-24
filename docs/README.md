@@ -4,15 +4,16 @@ With InviteChecker a new world of amazing features gets added to your discord se
 
 <button name="invitechecker-add" onclick="https://discord.com/oauth2/authorize?client_id=741606943952601179&redirect_uri=https%3A%2F%2Fmiolus.github.io%2Finvitechecker%2Fredirect-thankyou-after-install&response_type=code&scope=bot&permissions=32">Add features!</button>
 
-### - Count invites!
+### Count invites!
 
 ![InviteExample](https://content.miolus.de/invite-command-example.png)
 
-### - Welcome people!
+<p align="right">
+### Welcome people!
 
 ![WelcomerExample](https://content.miolus.de/welcomer-example.png)
-
-### - Host Giveaways!
+</p>
+### Host Giveaways!
 
 ![giveawayexample](https://content.miolus.de/giveaway-example.png)
 
