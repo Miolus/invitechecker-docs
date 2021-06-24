@@ -1,16 +1,16 @@
 # Upgrade your discord server!
 
-InviteChecker let's you...
+**InviteChecker let's you:**
 
-### ...count invites
+### - Count invites!
 
 ![InviteExample](https://content.miolus.de/invite-command-example.png)
 
-### ...welcome people
+### - Welcome people!
 
 ![WelcomerExample](https://content.miolus.de/welcomer-example.png)
 
-### ...host giveaways
+### - Host Giveaways!
 
 ![giveawayexample](https://content.miolus.de/giveaway-example.png)
 
