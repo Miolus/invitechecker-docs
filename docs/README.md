@@ -9,7 +9,7 @@ With InviteChecker a new world of amazing features gets added to your discord se
 ![InviteExample](https://content.miolus.de/invite-command-example.png)
 
 <p align="right">
-### Welcome people!
+<h3> Welcome people! </h3>
 
 ![WelcomerExample](https://content.miolus.de/welcomer-example.png)
 </p>
