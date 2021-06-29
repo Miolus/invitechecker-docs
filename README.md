@@ -1,3 +1,3 @@
-# InviteChecker Documentation
+# InviteChecker 
 
-The docs are currently in the making, you can fork them but they are not ready for that.
+The place to contribute to InviteChecker and create bug reports for the docs and the bot itsself.
