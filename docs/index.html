@@ -6,6 +6,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="UTF-8">
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
+/>
 <meta name="description" content="The official documentation for the InviteChecker discord bot!\nEasily count invites and view in-depth analytics." />
 <meta content="#5656fc" data-react-helmet="true" name="theme-color">
 <meta
@@ -43,10 +45,18 @@ How does this look?! please tell me
             hook.afterEach(function(html) {
             return html + footer;
             })}
-        ]
+        ],
+        darkMode: {
+            dark: {
+                background: "#1c2022",
+                toggleBtnBg: "#5656fc",
+                textColor: "#dedede"
+            }
+        }
     }
 </script>
 <script src="https://content.miolus.de/docsify.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
 <style>
 img {
 border-radius: 20px;
