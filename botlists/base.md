@@ -53,4 +53,4 @@ With InviteChecker a new world of amazing features gets added to your discord se
   img {
     border-radius: 15px
   }
-  </style>
+ </style>
