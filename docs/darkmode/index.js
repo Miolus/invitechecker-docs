@@ -25,7 +25,7 @@ window.$docsify.plugins = [].concat((t, e) => {
     light: {
       background: "white",
       toggleBtnBg: "var(--theme-color)",
-      textColor: "var(--theme-color)",
+      textColor: "#394d59",
     },
     ...e.config.darkMode,
   }),
