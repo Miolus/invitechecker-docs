@@ -11,6 +11,7 @@ html,
 main,.sidebar ul li a {
   background: #fff;
   background: var(--docsify_dark_mode_bg);
+  color: #3d5666;
   color: var(--text_color)
 }
 .markdown-section code, .markdown-section pre {
