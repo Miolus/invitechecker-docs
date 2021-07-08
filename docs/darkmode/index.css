@@ -19,6 +19,9 @@ main,.sidebar ul li a {
 .markdown-section td {
     background-color: var(--docsify_dark_mode_bg);
 }
+.markdown-section hr {
+    color: #5d5f7a;
+}
 .anchor span{
     color: var(--text_color)
 }
