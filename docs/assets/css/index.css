@@ -10,6 +10,7 @@ button {
   cursor: pointer;
   background-color: #5656fc;
   color: white;
+  border-radius: 15px;
 }
 img {
   border-radius: 20px;

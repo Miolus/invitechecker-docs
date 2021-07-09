@@ -20,4 +20,4 @@
   - [Troubleshooting](troubleg.md)
 
 
-  [![DiscordICON](https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=24)](https://discord.gg/yRqrjY3)
+   [![DiscordICON](https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=60)](https://discord.gg/yRqrjY3)
