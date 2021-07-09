@@ -14,8 +14,10 @@
   - [Channels](channels.md)
   - [Giveaways](giveaways.md)
  
+- Utillity
 
-- [Aliases](aliases.md)
-- [Troubleshooting](troubleshooting.md)
-- [Support](https://discord.gg/yRqrjY3)
+  - [Aliases](aliases.md)
+  - [Troubleshooting](troubleg.md)
 
+
+  [![DiscordICON](https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=24)](https://discord.gg/yRqrjY3)
