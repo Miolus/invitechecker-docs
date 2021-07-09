@@ -1,6 +1,5 @@
 button {
   border: none;
-  color: "#5656fc";
   padding: 12px 24px;
   text-align: center;
   text-decoration: none;
@@ -9,7 +8,9 @@ button {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  background-color: "#5656fc";
+  background-color: #5656fc;
+  color: white;
+  border-radius: 15px;
 }
 img {
   border-radius: 20px;
