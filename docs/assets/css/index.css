@@ -1,4 +1,4 @@
-.button {
+button {
   border: none;
   color: "#5656fc";
   padding: 16px 32px;
@@ -10,6 +10,6 @@
   transition-duration: 0.4s;
   cursor: pointer;
 }
-.img {
+img {
   border-radius: 20px;
 }
