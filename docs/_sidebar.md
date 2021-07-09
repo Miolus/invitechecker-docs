@@ -17,6 +17,6 @@
 - Utillity
 
   - [Aliases](aliases.md)
-  - [Troubleshooting](troubleg.md)
+  - [Troubleshooting](trouble.md)
 
-- [![DiscordICON](https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=35)](https://discord.gg/yRqrjY3)
+- [![DiscordICON](https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=40)](https://discord.gg/yRqrjY3)
