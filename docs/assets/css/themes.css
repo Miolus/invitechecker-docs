@@ -16,7 +16,7 @@ main,.sidebar ul li a {
 .markdown-section code, .markdown-section pre {
     background-color: var(--code_color);
 }
-.markdown-section td {
+.markdown-section td{
     background-color: var(--docsify_dark_mode_bg);
 }
 .markdown-section hr {
@@ -25,6 +25,10 @@ main,.sidebar ul li a {
 .anchor span{
     color: var(--text_color)
 }
+
+body.close .sidebar-toggle{
+  background-color: var(--docsify_dark_mode_bg);
+}
 #dark_mode > input[type="checkbox"] {
   height: 0;
   width: 0;
@@ -32,7 +36,7 @@ main,.sidebar ul li a {
 }
 #dark_mode > label {
   cursor: pointer;
-  text-indent: -9999px;
+  text-indent: 9999px;
   width: 55px;
   height: 30px;
   background: var(--theme-color);
@@ -71,9 +75,9 @@ html.transition :before {
   transition-delay: 0 !important;
 }
 #dark_mode {
-  position: absolute;
-  right: 0;
-  top: 0;
+  position: fixed;
+  right: 5%;
+  margin-right: 0;
 }
 p {
   color: #394d59;
