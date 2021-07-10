@@ -12,7 +12,7 @@ button {
   color: white;
   border-radius: 15px;
 }
-button:hover {
+button:not(.sidebar-toggle):hover {
   background-color: #4AA8FE;
 }
 img {
