@@ -19,4 +19,4 @@
   - [Aliases](aliases.md)
   - [Troubleshooting](trouble.md)
 
-- [![DiscordICON](https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=40)](https://discord.gg/yRqrjY3)
+- [![DiscordICON](https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg ':size=50%')](https://discord.gg/yRqrjY3)
