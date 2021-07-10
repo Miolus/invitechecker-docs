@@ -48,10 +48,10 @@ body.close .sidebar-toggle{
   border-radius: 100px;
   position: relative;
 }
-#dark_mode > strong {
+.markdown_section strong {
   color:white,
 }
-#dark_mode > .tip {
+.markdown-section p.tip {
   background-color: #3a464d;
 }
 p.tip {
