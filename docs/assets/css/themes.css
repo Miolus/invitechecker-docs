@@ -55,7 +55,6 @@ body.close .sidebar-toggle{
   background-color: #3a464d;
 }
 p.tip {
-  background-color: #3a464d;
   background-color: var(--docsify_dark_mode_bg)
   }
 strong {
