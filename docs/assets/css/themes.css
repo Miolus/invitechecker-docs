@@ -48,9 +48,6 @@ body.close .sidebar-toggle{
   border-radius: 100px;
   position: relative;
 }
-.markdown_section strong {
-  color:white,
-}
 .markdown-section p.tip {
   background-color: #3a464d;
 }

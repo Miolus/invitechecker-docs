@@ -10,4 +10,4 @@ You can also checkout the leaderboard commands to show the users that have invit
 
 ![Example](https://content.miolus.de/invite-command-example.png)
 
-!> Invites can only be counted **after** the bot joined
+!> Invites can only be counted __after__ the bot joined
