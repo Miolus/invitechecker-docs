@@ -51,7 +51,7 @@ body.close .sidebar-toggle{
 #dark_mode > strong {
   color:white,
 }
-#dark_mode > tip {
+#dark_mode > .tip {
   background-color: #3a464d;
 }
 #dark_mode > label:after {
