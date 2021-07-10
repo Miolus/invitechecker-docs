@@ -48,6 +48,12 @@ body.close .sidebar-toggle{
   border-radius: 100px;
   position: relative;
 }
+#dark_mode > strong {
+  color:white,
+}
+#dark_mode > tip {
+  background-color: #3a464d;
+}
 #dark_mode > label:after {
   content: "";
   background: #fff;
