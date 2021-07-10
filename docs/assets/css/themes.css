@@ -54,6 +54,12 @@ body.close .sidebar-toggle{
 #dark_mode > .tip {
   background-color: #3a464d;
 }
+p.tip {
+  background-color: var(--docsify_dark_mode_bg)
+  }
+strong {
+  background-color: var(--docsify_dark_mode_bg)
+  })
 #dark_mode > label:after {
   content: "";
   background: #fff;
