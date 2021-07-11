@@ -51,9 +51,6 @@ body.close .sidebar-toggle{
 .markwodn_section p.tip {
   background-color: #3a464d;
   }
-strong {
-  color:white,
-  }
 #dark_mode > label:after {
   content: "";
   background: #fff;
