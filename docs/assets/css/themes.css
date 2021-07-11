@@ -48,9 +48,6 @@ body.close .sidebar-toggle{
   border-radius: 100px;
   position: relative;
 }
-.markdown-section p.tip {
-  background-color: #3a464d;
-}
 p.tip {
   background-color: var(--docsify_dark_mode_bg)
   }
