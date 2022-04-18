@@ -24,28 +24,24 @@ With InviteChecker a new world of amazing features gets added to your discord se
 `invites @user` - Get the invites of a user.<br>
 `leaderboard` - See the leaderboard of your guild.<br>
 `graph` - Community Analytics.<br>
-`live` - Get an automatic leaderboard.<br>
-`topinvites` - The most used invite links of your server.<br>
+`liveleaderboards` - Get an automatic leaderboard.<br>
 `prefix` - Get or change the prefix.<br>
 `lookup` - Make a discord.gg link lookup.<br>
-`aliases` - All command aliases.<br>
 `mylinks` - Get all your links.<br>
 <h2>👋 Welcomer & Leaver:</h2><br>
 `message join/leave` - Set a new message.<br>
 `channel join/leave` - Set a channel.<br>
-`test join/leave` - Test the welcomer or leaver.<br>
 `config` - View your configuration.<br>
 <h2>🎁 Giveaways:</h2><br>
-`g start` - Create a giveaway.<br>
-`g list` - Show your giveaways.<br>
-`g end` - End a giveaway.<br>
-`g reroll` - Reroll a giveaway.<br>
-`g delete` - Delete a giveaway.<br>
-`g wipe` - Delete old giveaways.<br>
+`giveaway start` - Create a giveaway.<br>
+`giveaway list` - Show your giveaways.<br>
+`giveaway end` - End a giveaway.<br>
+`giveaway reroll` - Reroll a giveaway.<br>
+`giveaway delete` - Delete a giveaway.<br>
+`giveaway wipe` - Delete old giveaways.<br>
 <h2>🔢 Counts:</h2><br>
-`remove count @user` - Remove invites.<br>
-`add count @user` - Add invites.<br>
-`syncme` - Sync your counts.<br>
+`counts add` - Add bonus invites to an user.
+`counts remove` - Remove bonus invites from an user.
 
 
 [![Discord Bots](https://top.gg/api/widget/status/741606943952601179.svg)](https://top.gg/bot/741606943952601179)<br>
