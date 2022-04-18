@@ -8,14 +8,8 @@ We have listed the most common errors with solutions here.
     - use invite links with unlimited uses
     - execute the `update` command
 
-- ## Forbidden
-    There are 2 types of Forbidden errors:
-    - Permission not given
-        - Occurs when the bot has not permission to perform the requested action (e.g. sending a message)
-    - `manage_guild` needed
-        - Occurs when you don't have enough permissions to perform this action.
-        
-- ## KeyError
-    Is being raised when the bot couldn't resolve your arguments. Solution:
-    - remove intendation
-    - write command in a single line
+- ## Missing permissions
+    Raised when you or the bot don't have required permissions (for example `manage_guild`).
+    To fix this, check your permissions and add missing.
+   
+ 
