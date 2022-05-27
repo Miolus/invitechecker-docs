@@ -10,8 +10,8 @@ Use the `channel` command to set channels for `join` and `leave` events. These a
 ---
 
 
-| Example Command | Action taken                                                  |
-|-------------    |---------                                                      |
+| Example Command           | Action taken                                        |
+|-------------              |---------                                            |
 | `channel join #welcome`  | Set the new channel for join messageas to `#welcome` |
 | `channel leave #goodbye` | Set the leave message channel to `#goodbye`          |  
 

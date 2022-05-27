@@ -5,6 +5,6 @@ This table contains all commands and helps with permissions.
 
 | Command | Restricted |
 | 
-| `invites`
-| `leaderboard`
-| ``
+| `invites`     |    |
+| `leaderboard` |    |
+| ``            |    |
