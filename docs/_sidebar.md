@@ -19,4 +19,4 @@
   - [Aliases](aliases.md)
   - [Troubleshooting](trouble.md)
 
-- [![DiscordICON](/assets/img/discord_icon.svg) "size=50x50"](https://discord.gg/yRqrjY3)
+- [![DiscordICON](/assets/img ':size=50x50')](https://discord.gg/yRqrjY3)
