@@ -8,3 +8,5 @@ This table contains all commands and helps with permissions.
 | `invites`     |    |
 | `leaderboard` |    |
 | ``            |    |
+
+>! Bot Manager Roles are not yet available in InviteChecker and will be released soon.
