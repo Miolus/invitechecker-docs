@@ -8,4 +8,4 @@ You can count invites, create a welcomer, host giveaways and much more, and you 
   - Check the [Channels](channels.md) section to find out how to set a welcomer.
 
 
-![InviteChecker Show Preview](https://content.miolus.de/invite-command-example.png)
+![InviteChecker Show Preview](/assets/img/invites.png)

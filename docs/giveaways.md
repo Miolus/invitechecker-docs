@@ -29,4 +29,4 @@ Winners will be automatically selected when the giveaway reached the ending time
 | Channel   | A discord channel, can't be changed after creation. |
 
 
-![Giveaway Example](https://content.miolus.de/giveaway-example.png)
+![Giveaway Example](/assets/img/giveaway.png)
