@@ -1,37 +1,31 @@
-[![Discord Bots](https://top.gg/api/widget/status/741606943952601179.svg)](https://top.gg/bot/741606943952601179)<br>
 
-# 😀 Create the best community!
-
-With InviteChecker a new world of amazing features gets added to your discord server!
-
-<button name="invitechecker-add" onclick='location.href="https://discord.com/oauth2/authorize?client_id=741606943952601179&redirect_uri=https%3A%2F%2Fmiolus.github.io%2Finvitechecker%2Fredirect-thankyou-after-install&response_type=code&scope=bot&permissions=32"'>Add features!</button>
+# 😀 Create the best community with InviteChecker
 
 ### 🔢 Count invites!
 
-![InviteExample](https://content.miolus.de/invite-command-example.png)
+![InviteExample](://invidocs.miolus.de/assets/img/invites.png)
 
 ### 👋 Welcome people!
 
-![WelcomerExample](https://content.miolus.de/welcomer-example.png)
+![WelcomerExample](://invidocs.miolus.de/assets/img/welcomer.png)
 
 ### 🎁 Host Giveaways!
 
-![giveawayexample](https://content.miolus.de/giveaway-example.png)
+![giveawayexample](://invidocs.miolus.de/assets/img/giveaway.png)
 
 
 ...and all that without any setup required, just add InviteChecker, and you're good to go!
 <h2>⚙️ Public:</h2><br>
+`help` - Help Menu.<br>
 `invites @user` - Get the invites of a user.<br>
 `leaderboard` - See the leaderboard of your guild.<br>
 `graph` - Community Analytics.<br>
-`liveleaderboards` - Get an automatic leaderboard.<br>
-`prefix` - Get or change the prefix.<br>
-`lookup` - Make a discord.gg link lookup.<br>
+`liveleaderboard` - Get an automatic leaderboard.<br>
 `mylinks` - Get all your links.<br>
 <h2>👋 Welcomer & Leaver:</h2><br>
 `message join/leave` - Set a new message.<br>
 `channel join/leave` - Set a channel.<br>
-`config` - View your configuration.<br>
+`config` - View your configuration and edit.<br>
 <h2>🎁 Giveaways:</h2><br>
 `giveaway start` - Create a giveaway.<br>
 `giveaway list` - Show your giveaways.<br>
@@ -44,7 +38,8 @@ With InviteChecker a new world of amazing features gets added to your discord se
 `counts remove` - Remove bonus invites from an user.
 
 
-[![Discord Bots](https://top.gg/api/widget/status/741606943952601179.svg)](https://top.gg/bot/741606943952601179)<br>
+![InviteChecker](https://top.gg/api/widget/status/741606943952601179.svg)]<br>
+
 <style>
   img {
     border-radius: 15px
