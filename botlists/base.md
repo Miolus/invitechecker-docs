@@ -1,17 +1,17 @@
 
-# 😀 Create the best community with InviteChecker
+## 😀 Create the best community with InviteChecker
 
 ### 🔢 Count invites!
 
-![InviteExample](://invidocs.miolus.de/assets/img/invites.png)
+![InviteExample](https://invidocs.miolus.de/assets/img/invites.png)
 
 ### 👋 Welcome people!
 
-![WelcomerExample](://invidocs.miolus.de/assets/img/welcomer.png)
+![WelcomerExample](https://invidocs.miolus.de/assets/img/welcomer.png)
 
 ### 🎁 Host Giveaways!
 
-![giveawayexample](://invidocs.miolus.de/assets/img/giveaway.png)
+![giveawayexample](https://invidocs.miolus.de/assets/img/giveaway.png)
 
 
 ...and all that without any setup required, just add InviteChecker, and you're good to go!
@@ -42,6 +42,7 @@
 
 <style>
   img {
-    border-radius: 15px
+    border-radius: 15px;
+    max-height: 150px
   }
  </style>
