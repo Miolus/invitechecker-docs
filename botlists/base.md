@@ -38,7 +38,7 @@
 `counts remove` - Remove bonus invites from an user.
 
 
-![InviteChecker](https://top.gg/api/widget/status/741606943952601179.svg)]<br>
+![InviteChecker](https://top.gg/api/widget/status/741606943952601179.svg)<br>
 
 <style>
   img {
