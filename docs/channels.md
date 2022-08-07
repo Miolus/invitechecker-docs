@@ -5,7 +5,7 @@ Use the `channel` command to set channels for `join` and `leave` events. These a
 ---
 **Syntax**
 
-`channel join/leave #channel`
+`channel join/leave <#channel>`
 
 ---
 
