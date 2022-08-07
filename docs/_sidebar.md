@@ -1,11 +1,10 @@
  - Home 
 
-  - [Get started](/)
+  - [Setup](/)
  
  - Counts
  
-   - [View](view-counts.md)
-   - [Types](count-types.md)
+   - [View](counts.md)
    - [Leaderboard](leaderboards.md)
 
 - Customization
@@ -16,7 +15,6 @@
  
 - Utillity
 
-  - [Aliases](aliases.md)
   - [Troubleshooting](trouble.md)
 
 - [![Discord](/assets/img/discord_icon.svg ':size=50x50')](https://discord.gg/yRqrjY3)
