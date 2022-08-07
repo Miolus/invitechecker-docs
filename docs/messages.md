@@ -1,10 +1,9 @@
 # Customize Messsages
 
 You can use the `message` command to customize messages sent on join and leave events.
-Syntax: `message join/leave my new message`
-Use variables for a responsive message.
+Syntax: `message join/leave <msg>`
 
-| Example Command                                                  | Example Result                             | 
+| Example Command                                                    | Example Result                             | 
 | -------------                                                      | -------------------------                  | 
 | `message join MEMBER_NAME joined, invited by INVITER_NAME`         | Miolus joined, invited by Joulxdr          |
 | `message leave MEMBER_NAME left, he was invited by INVITER_MENTION`| Miolus left, he was invited by @Dominik    |
@@ -27,5 +26,3 @@ Place this variables in your text when customizing a message to make the bot rep
 | INVITER_TAG        | 4-digit tag of the inviter.                | 5678
 | MEMBER_COUNT       | Member count of your server.               | 92
 | INVITE_COUNT       | Count how many people the inviter invited. | 69
-| MEMBER_CREATED_AT  | Time of the member's account creation.     | 2020/10/09
-| INVITER_CREATED_AT | Time of the inviter's account creation.    | 2019/03/14
