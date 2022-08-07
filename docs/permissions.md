@@ -1,4 +1,4 @@
-#Permissions
+# Permissions
 
 Certain configuration commands require permissions, in form of the `manage server` permission or a bot manager role.
 This table contains all commands and helps with permissions.
