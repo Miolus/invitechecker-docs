@@ -1,6 +1,6 @@
  - Home 
 
-  - [Setup](/)
+  - [Setup](home.md)
  
  - Counts
  
