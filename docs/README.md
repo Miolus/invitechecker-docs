@@ -1,23 +1,22 @@
-# 😀 Create the best community!
+# Documentation
 
-With InviteChecker a new world of amazing features gets added to your discord server!
+Welcome to the InviteChecker Documentation. This is the home for references on how to use InviteChecker.
 
-<button name="invitechecker-add" onclick='location.href="https://discord.com/oauth2/authorize?client_id=741606943952601179&redirect_uri=https%3A%2F%2Fmiolus.github.io%2Finvitechecker%2Fredirect-thankyou-after-install&response_type=code&scope=bot&permissions=32"'>Add features!</button>
+<button name="invitechecker-add" onclick='location.href="https://discord.com/api/oauth2/authorize?client_id=741606943952601179&permissions=262176&scope=bot%20applications.commands"'>Add features!</button>
 
 ### 🔢 Count invites!
 
-![InviteExample](https://content.miolus.de/invite-command-example.png)
-
+![InviteExample](/assets/img/invites.png)
 ### 👋 Welcome people!
 
-![WelcomerExample](https://content.miolus.de/welcomer-example.png)
+![WelcomerExample](/assets/img/welcomer.png)
 
 ### 🎁 Host Giveaways!
 
-![giveawayexample](https://content.miolus.de/giveaway-example.png)
+![giveawayexample](/assets/img/giveaway.png)
 
 
 ...and all that without any setup required, just add InviteChecker, and you're good to go!
 
-<button name="invitechecker-add" onclick='location.href="https://discord.com/oauth2/authorize?client_id=741606943952601179&redirect_uri=https%3A%2F%2Fmiolus.github.io%2Finvitechecker%2Fredirect-thankyou-after-install&response_type=code&scope=bot&permissions=32"'>👍 Add InviteChecker!</button>
+<button name="invitechecker-add" onclick='location.href="https://discord.com/api/oauth2/authorize?client_id=741606943952601179&permissions=262176&scope=bot%20applications.commands"'>👍 Add InviteChecker!</button>
 
