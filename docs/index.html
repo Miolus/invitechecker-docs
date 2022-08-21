@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
     <!--Css-->
     <link rel="stylesheet" href="assets/css/index.css"/>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"/>
     <meta property="og:title" content="InviteChecker Documentation">
     <meta property="og:description" content="The home for references on how to use InviteChecker.">
     <meta property="og:site_name" content="InviteChecker Docs">
@@ -18,6 +17,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
     </head>
     <body>
+    <!--App Building-->
     <div id="app">InviteChecker Documentation</div>
     <script>
         window.$docsify = {
@@ -28,27 +28,10 @@
             relativePath: true,
             maxLevel: 2,
             name: 'InviteChecker',
-            tabs: {
-                sync: false
-            },
-            logo: 'https://content.miolus.de/invilogo-lighttheme-transparent.png',
-            darkMode: {
-                dark: {
-                    background: "#2f3136",
-                    toggleBtnBg: "#5656fc",
-                    textColor: "#dedede",
-                    codeColor: "#3f484d",
-                    warningBg: "#3a464d",
-                    tipBg: "#32363b"
-                }
-            },
-            topBanner: {
-                content: "This site is still work in progress, tell us if you encounter any errors."
+            logo: '/assets/logo.png',
+            homepage: '#index.md'
             }
-        }
-
     </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
     <script src="//content.miolus.de/docsify.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>

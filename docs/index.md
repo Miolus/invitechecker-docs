@@ -2,8 +2,6 @@
 
 Welcome to the InviteChecker Documentation. This is the home for references on how to use InviteChecker.
 
-<button name="invitechecker-add" onclick='location.href="https://discord.com/api/oauth2/authorize?client_id=741606943952601179&permissions=262176&scope=bot%20applications.commands"'>Add features!</button>
-
 ### 🔢 Count invites!
 
 ![InviteExample](/assets/img/invites.png)
