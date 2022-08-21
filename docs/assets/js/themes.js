@@ -33,24 +33,5 @@ window.$docsify.plugins = [].concat((t, e) => {
       e(
         (t = ` <div id="dark_mode">\n             <input class="container_toggle" type="checkbox" id="switch" name="mode" />\n             <label for="switch">Toggle</label>\n           </div>${t}`)
       );
-    }),
-    t.doneEach(function () {
-      var t;
-      localStorage.getItem("DOCSIFY_DARK_MODE")
-        ? ((t = localStorage.getItem("DOCSIFY_DARK_MODE")), c(o[`${t}`]))
-        : ((t = "light"), c(o.light)),
-        document
-          .querySelector("input[name=mode]")
-          .addEventListener("change", function () {
-            "light" === t
-              ? (n(),
-                c(o.dark),
-                localStorage.setItem("DOCSIFY_DARK_MODE", "dark"),
-                (t = "dark"))
-              : (n(),
-                c(o.light),
-                localStorage.setItem("DOCSIFY_DARK_MODE", "light"),
-                (t = "light"));
-          });
     });
 }, window.$docsify.plugins);
