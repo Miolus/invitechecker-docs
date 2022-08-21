@@ -17,4 +17,5 @@ button:not(.sidebar-toggle):hover {
 }
 img {
   border-radius: 20px;
+  max-height: 200px;
 }
