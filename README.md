@@ -1,3 +1,3 @@
 # InviteChecker 
 
-The place to contribute to InviteChecker and create bug reports for the docs and the bot itsself.
+This repo contains the app documentation. Feel free to make a PR.

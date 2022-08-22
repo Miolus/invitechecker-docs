@@ -1,7 +1,11 @@
 # Customize Messsages
 
 You can use the `message` command to customize messages sent on join and leave events.
-Syntax: `message join/leave <msg>`
+
+**Syntax**
+```
+message join/leave <msg> (optional)
+```
 
 | Example Command                                                    | Example Result                             | 
 | -------------                                                      | -------------------------                  | 
