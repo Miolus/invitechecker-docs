@@ -2,18 +2,18 @@
 
   - [Setup](index.md)
  
- - Counts
+ - Invite Counting
  
    - [View](counts.md)
    - [Leaderboard](leaderboards.md)
 
-- Customization
+- Configuration
 
   - [Messages](messages.md)
   - [Channels](channels.md)
   - [Giveaways](giveaways.md)
  
-- Utillity
+- Help
 
   - [Troubleshooting](trouble.md)
 
