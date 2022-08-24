@@ -29,8 +29,20 @@
             maxLevel: 2,
             name: 'InviteChecker',
             logo: '/assets/img/logo-full.png',
-            homepage: 'index.md'
-            }
+            homepage: 'index.md',
+            plugins: [
+            function(hook) {
+            var footer = [
+                '<hr/>',
+                '<footer>',
+                '<span>Hosted by <a href="https://pages.github.com">Github Pages</a></span>',
+                '</footer>'
+            ].join('');
+            hook.afterEach(function(html) {
+                return html + footer;
+            });
+            }],
+        }
     </script>
     <script src="//content.miolus.de/docsify.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
