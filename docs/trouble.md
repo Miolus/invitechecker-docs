@@ -14,8 +14,7 @@ Checking the `debug` command in advance could already resolve your issue.
 
     * InviteChecker is currently booting up  
         When you see a 🟡 symbol in the `debug` command, this means InviteChecker is currently loading.  
-        Wait till the symbol turned 🟢 green.  
-
+        Wait till the symbol turned 🟢 green. You can execute the `update` command to instantly load invites for your server.
 
    
  

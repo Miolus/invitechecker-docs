@@ -26,3 +26,5 @@ Users with the `manage server` permission can update your bonus invites using th
 ```
 counts update / remove <user> <count>
 ```
+
+!> If you have issues with invite counting, check [Troubleshooting](/trouble.md) or contact us.
