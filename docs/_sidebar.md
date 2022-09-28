@@ -18,4 +18,4 @@
   - [Troubleshooting](trouble.md)
   - [Permissions](permissions.md)
 
-- [![Discord](/assets/img/discord_icon.svg ':size=50x50')](/support)
+- [![Discord](/assets/img/discord_icon.svg ':size=50x50')](://invidocs.miolus.de/support)
