@@ -4,7 +4,7 @@
  
  - Invite Counting
  
-   - [View](counts.md)
+   - [Counts](counts.md)
    - [Leaderboard](leaderboards.md)
 
 - Configuration
@@ -16,5 +16,6 @@
 - Help
 
   - [Troubleshooting](trouble.md)
+  - [Permissions](permissions.md)
 
-- [![Discord](/assets/img/discord_icon.svg ':size=50x50')](https://discord.gg/yRqrjY3)
+- [![Discord](/assets/img/discord_icon.svg ':size=50x50')](/support)
