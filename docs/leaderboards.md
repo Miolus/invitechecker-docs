@@ -5,7 +5,7 @@ This shows the people who invited most friends to the server, of course with lea
 
 **Syntax**
 ```
-leaderboard <page : 1-99> <style : Fast / Pages>
+leaderboard <page : 1-99> <style : Fast / Pages> <filter : Standard / None>
 ```
 
 ### :fire: Fast Leaderboards
@@ -18,5 +18,5 @@ Released in September, Fast Leaderboards offer a way to update a leaderboard by 
 leaderboard style : Fast
 ```
 
-!> Leaderboards don't show users with only bonus invites right now, this will change soon.
+!> Use `filter : None` to include users with only bonus invites.
 
