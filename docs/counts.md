@@ -28,3 +28,4 @@ counts update / remove <user> <count>
 ```
 
 !> If you have issues with invite counting, check [Troubleshooting](/trouble.md) or contact us.
+

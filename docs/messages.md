@@ -22,11 +22,12 @@ Place this variables in your text when customizing a message to make the bot rep
 
 | Variable           | Description                                | Example  |
 | -------------      | -------------------------                  | -------- |
-| MEMBER_MENTION     | Mention the user joined.                   | @Miolus
-| MEMBER_NAME        | Name of the user joined.                   | Miolus
-| MEMBER_TAG         | The member's 4-digit tag.                  | 1234
-| INVITER_NAME       | Name of the user that invited the member.  | Dominik
-| INVITER_MENTION    | Mention of the inviter.                    | @Dominik
-| INVITER_TAG        | 4-digit tag of the inviter.                | 5678
-| MEMBER_COUNT       | Member count of your server.               | 92
-| INVITE_COUNT       | Count how many people the inviter invited. | 69
+| MEMBER_MENTION     | Mention the user joined.                   | @Miolus  |
+| MEMBER_NAME        | Name of the user joined.                   | Miolus   |
+| MEMBER_TAG         | The member's 4-digit tag.                  | 1234     |
+| INVITER_NAME       | Name of the user that invited the member.  | Dominik  |
+| INVITER_MENTION    | Mention of the inviter.                    | @Dominik |
+| INVITER_TAG        | 4-digit tag of the inviter.                | 5678     |
+| MEMBER_COUNT       | Member count of your server.               | 92       |
+| INVITE_COUNT       | Count how many people the inviter invited. | 69       |
+| CODE               | The invite code used to join.              | abcde123 |
