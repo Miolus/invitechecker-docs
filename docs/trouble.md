@@ -42,7 +42,7 @@ Checking the `debug` command in advance could already resolve your issue.
         - `send messages` to send messages
         - `manage invites` to track invites
 
-!> If this page doesn't resolve your issue, we can help you fast in our [Discord](/support)
+!> If this page doesn't resolve your issue, we can help you fast in our [Discord](https://invidocs.miolus.de/support)
     
 
 
