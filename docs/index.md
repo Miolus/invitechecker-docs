@@ -2,11 +2,16 @@
 
 Welcome to the InviteChecker Documentation. This is the home for references on how to use InviteChecker.
 
-### Count invites, welcome people, create giveaways and analytics!
+### Discover InviteChecker
 
 ![InviteExample](https://content.miolus.de/sharex/Discord_YZ7cxUoU9a.png)
-![WelcomerExample](https://content.miolus.de/sharex/Discord_75nwEQkJ4a.png)
-![GraphExample](https://content.miolus.de/sharex/Discord_vYxgdZimeD.png)
+
+### With InviteChecker you are able to:
+
+    - Count invites
+    - Welcome people
+    - Create giveaways
+    - Show analytics
 
 ...and all that without any setup required, just add InviteChecker, and you're good to go!
 
