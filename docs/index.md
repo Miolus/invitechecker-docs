@@ -8,10 +8,10 @@ Welcome to the InviteChecker Documentation. This is the home for references on h
 
 ### With InviteChecker you are able to:
 
-    - Count invites
-    - Welcome people
-    - Create giveaways
-    - Show analytics
+- Count invites
+- Welcome people
+- Create giveaways
+- Show analytics
 
 ...and all that without any setup required, just add InviteChecker, and you're good to go!
 

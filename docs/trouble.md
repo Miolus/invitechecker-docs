@@ -14,8 +14,8 @@ Checking the `debug` command in advance could already resolve your issue.
         Running the `update` command will reload all invite links and fix this.  
 
     * InviteChecker is currently booting up<br>
-        When you see a 🟡 symbol in the `debug` command, this means InviteChecker is currently loading.  
-        Wait till the symbol turned 🟢 green. You can execute the `update` command to instantly load invites for your server.
+        When the debug command says your server is currently `LOADING`, the invite tracking is not yet working properly.  
+        Wait till it changes to `ONLINE`. You can execute the `update` command to instantly load invites for your server.
 
 - ## Ratelimits
     
