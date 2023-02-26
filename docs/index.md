@@ -1,6 +1,6 @@
 # InviteChecker Documentation
 
-Welcome to the InviteChecker Documentation. This is the home for references on how to use InviteChecker.
+Welcome to the InviteChecker Documentation. This is the home for references on how to use InviteChecker - the best invite tracking app for discord.
 
 ### Discover InviteChecker
 
