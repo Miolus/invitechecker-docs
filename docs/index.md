@@ -1,19 +1,18 @@
-# InviteChecker Documentation
+# InviteChecker
 
-Welcome to the InviteChecker Documentation. This is the home for references on how to use InviteChecker - the best invite tracking app for discord.
+### The best choice to track invites and more with ease.
 
-### Discover InviteChecker
+Fast invite tracking, with inbuilt welcome messages and fast leaderboards.
 
-![InviteExample](https://content.miolus.de/sharex/Discord_YZ7cxUoU9a.png)
+![InviteExample](/assets/img/invites.png) ![GraphExample](/assets/img/graph.png)
 
-### With InviteChecker you are able to:
+### Discover features
 
-- Count invites
-- Welcome people
-- Create giveaways
-- Show analytics
+- Invite Tracking
+- In-depth server growth analytics
+- Fast Leaderboards
+- Welcome and Goodbye messages
+- Giveaways
 
-...and all that without any setup required, just add InviteChecker, and you're good to go!
-
-<button name="invitechecker-add" onclick='location.href="https://discord.com/api/oauth2/authorize?client_id=741606943952601179&permissions=262176&scope=bot%20applications.commands"'>👍 Add InviteChecker!</button>
+<button name="add-invitechecker" onclick='location.href="https://discord.com/api/oauth2/authorize?client_id=741606943952601179&permissions=262176&scope=bot%20applications.commands"'>Add InviteChecker to your Discord server</button>
 
