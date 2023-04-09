@@ -1,6 +1,6 @@
 # Customize Messsages
 
-You can use the `message` command to customize messages sent on join and leave events.
+You can use the `message` or `config` command to edit your  messages.
 
 **Syntax**
 ```
