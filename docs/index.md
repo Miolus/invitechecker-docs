@@ -2,7 +2,7 @@
 
 ### The best choice to track invites and more with ease.
 
-Fast invite tracking, with inbuilt welcome messages and fast leaderboards.
+Fast invite tracking, with inbuilt welcome messages and fast leaderboards for discord. InviteChecker is an app for the discord chat app.
 
 ![InviteExample](/assets/img/invites.png) ![GraphExample](/assets/img/graph.png)
 
